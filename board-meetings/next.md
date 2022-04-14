@@ -2,6 +2,8 @@
 
 These notes will be made public after the meeting on https://github.com/comunica/association
 
+These notes will be made public after the meeting on https://github.com/comunica/association
+
 **Planning**:
 
 Priority:
@@ -16,29 +18,23 @@ Less urgent:
 
 - Release schedule
 
+TODO: schedule meeting for next month
+
 ## Presence
 
-TODO
+
+
 ## Webinar
 
-TODO
+TODO: status
 
 ## Communication channels
 
-**Proposal**:
-
-Gitter chat rooms:
-- public: for general questions, what we have now.
-- public-contrib: (core) maintainers
-- private-board: for all board members
-
-## Roadmap
-
-TODO
+TODO: status
 
 ## Budget Application
 
-TODO
+TODO: status
 
 ## Association launch
 
