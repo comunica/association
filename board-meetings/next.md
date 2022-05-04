@@ -12,6 +12,7 @@ Priority:
 - Webinar status
 - Roadmap
 - Budget application
+- Taking up bounties
 - Association launch
 
 Less urgent:
@@ -41,6 +42,10 @@ TODO: status
 Plan is to have an official launch of the association fall of this year, and have current members marked as "founding members".
 
 ACTION: list logo's of members on website
+
+## Taking up bounties
+
+Are board members allowed to take up bounties?
 
 ## Release schedule
 
