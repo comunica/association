@@ -2,51 +2,29 @@
 
 These notes will be made public after the meeting on https://github.com/comunica/association
 
-These notes will be made public after the meeting on https://github.com/comunica/association
-
 **Planning**:
 
 Priority:
 
-- Communication channels
-- Webinar status
-- Roadmap
-- Budget application
-- Taking up bounties
 - Association launch
 
 Less urgent:
 
-- Release schedule
-
-TODO: schedule meeting for next month
+- Communication channels
+- Budget application
 
 ## Presence
 
-
-
-## Webinar
-
-TODO: status
-
-## Communication channels
-
-TODO: status
-
-## Budget Application
-
-TODO: status
+TODO: fill in your presence
 
 ## Association launch
 
-Plan is to have an official launch of the association fall of this year, and have current members marked as "founding members".
+TODO: status on the launch event
 
-ACTION: list logo's of members on website
+## Communication channels
 
-## Taking up bounties
+TODO: Slack server created
 
-Are board members allowed to take up bounties?
+## Budget application
 
-## Release schedule
-
-Introduce a major release schedule (like Node.js)?
+TODO: any new bounties we want to place?
