@@ -7,6 +7,7 @@ These notes will be made public after the meeting on https://github.com/comunica
 Priority:
 
 - Association launch
+- New bounties
 
 Less urgent:
 
@@ -20,6 +21,10 @@ TODO: fill in your presence
 ## Association launch
 
 TODO: status on the launch event
+
+## New bounties
+
+TODO: post new bounties
 
 ## Communication channels
 
