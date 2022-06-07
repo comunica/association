@@ -33,3 +33,8 @@ TODO: Slack server created
 ## Budget application
 
 TODO: any new bounties we want to place?
+
+Suggestions:
+
+- Remove dependency on Node.js APIs: https://github.com/comunica/comunica/issues/857
+- Expose ESM modules: https://github.com/comunica/comunica/issues/930
