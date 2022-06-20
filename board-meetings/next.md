@@ -11,7 +11,6 @@ Priority:
 
 Less urgent:
 
-- Communication channels
 - Budget application
 
 ## Presence
@@ -22,19 +21,13 @@ TODO: fill in your presence
 
 TODO: status on the launch event
 
-## New bounties
+## Budget application
 
 TODO: post new bounties
 
-## Communication channels
-
-TODO: Slack server created
-
-## Budget application
-
-TODO: any new bounties we want to place?
-
-Suggestions:
+Placed:
 
 - Remove dependency on Node.js APIs: https://github.com/comunica/comunica/issues/857
 - Expose ESM modules: https://github.com/comunica/comunica/issues/930
+
+
