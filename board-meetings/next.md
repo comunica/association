@@ -11,6 +11,7 @@ Priority:
 
 Less urgent:
 
+- Membership status
 - Budget application
 
 ## Presence
@@ -20,6 +21,10 @@ TODO: fill in your presence
 ## Association launch
 
 TODO: status on the launch event
+
+## Membership status
+
+New member: Digitaal Vlaanderen
 
 ## Budget application
 
