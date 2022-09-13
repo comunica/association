@@ -7,6 +7,7 @@ These notes will be made public after the meeting on https://github.com/comunica
 Priority:
 
 - Association launch
+- Impact of sponsors on the roadmap
 - New bounties
 
 Less urgent:
@@ -21,6 +22,10 @@ TODO: fill in your presence
 ## Association launch
 
 TODO: status on the launch event
+
+## Impact of sponsors on the roadmap
+
+Should long-time sponsors also gain (some) influence on the roadmap?
 
 ## Membership status
 
