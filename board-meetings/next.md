@@ -6,8 +6,7 @@ These notes will be made public after the meeting on https://github.com/comunica
 
 Priority:
 
-- Association launch
-- Impact of sponsors on the roadmap
+- Core maintainers
 
 Less urgent:
 
@@ -18,21 +17,12 @@ Less urgent:
 
 TODO: fill in your presence
 
-## Association launch
+## Core maintainers
 
-Online event:
-- Up to 18 viewers live
-- 179 views as of today
-- Several people said they wanted to have more of these, especially on the deeper internals of comunica.
+Currently Ruben T merges PRs. Should more people be able to merge PRs, in case Ruben T is unavailable?
+Perhaps a system like each PR requires approval from at least 2 core maintainers, but if more than a week goes by, then just 1 core maintainer is sufficient?
 
-Semantics:
-- Many people were already using comunica (in)directly
-- Good opportunity for networking and possible funding in the future
-- No developers found
-
-## Impact of sponsors on the roadmap
-
-Should long-time sponsors also gain (some) influence on the roadmap?
+See guidelines in https://comunica.dev/contribute/
 
 ## Budget application
 
