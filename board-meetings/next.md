@@ -6,7 +6,7 @@ These notes will be made public after the meeting on https://github.com/comunica
 
 Priority:
 
-- /
+- Roadmap update
 
 Less urgent:
 
@@ -17,20 +17,27 @@ Less urgent:
 
 TODO: fill in your presence
 
+## Roadmap update
+
+Current roadmap: https://comunica.dev/roadmap/
+
+- Future-oriented development
+- Improving overall performance
+- Developer experience
+- Outreach
+
+Proposal from RT: no new goals, but re-ordering of priorities:
+
+- Improving overall performance
+- Developer experience
+- Outreach
+- Future-oriented development (lowered, because this requires a large budget, which we don't have)
+
+Should we add an element: Stability (perhaps as first element?)
+
 ## Budget application
 
-1 bounty was recently completed, and awaiting payment.
-
-Suggestion for new bounties:
-
-- https://github.com/comunica/comunica/issues/1095
-- https://github.com/comunica/comunica/issues/980
-- https://github.com/comunica/comunica/issues/1003
-- https://github.com/comunica/comunica/issues/881
-- https://github.com/comunica/comunica/issues/825
-- https://github.com/comunica/comunica/issues/386
-- https://github.com/comunica/comunica/issues/798
-- https://github.com/comunica/comunica/issues/1139
+8 new bounties have been placed: https://comunica.dev/association/bounties/
 
 ## AOB?
 
