@@ -6,7 +6,7 @@ These notes will be made public after the meeting on https://github.com/comunica
 
 Priority:
 
-- Roadmap update
+- Change fiscal host
 
 Less urgent:
 
@@ -17,23 +17,9 @@ Less urgent:
 
 TODO: fill in your presence
 
-## Roadmap update
+## Change fiscal host
 
-Current roadmap: https://comunica.dev/roadmap/
-
-- Future-oriented development
-- Improving overall performance
-- Developer experience
-- Outreach
-
-Proposal from RT: no new goals, but re-ordering of priorities:
-
-- Improving overall performance
-- Developer experience
-- Outreach
-- Future-oriented development (lowered, because this requires a large budget, which we don't have)
-
-Should we add an element: Stability (perhaps as first element?)
+TODO
 
 ## Budget application
 
