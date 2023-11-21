@@ -7,6 +7,7 @@ These notes will be made public after the meeting on https://github.com/comunica
 Priority:
 
 - Change fiscal host
+- Intro Matthias Palmér on RDF/JS tooling
 
 Less urgent:
 
